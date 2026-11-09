@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Punho Fechado",
+    "pattern": [null, 0, 0, 0, 0],
+    "image": "assets/punho_fechado.png"
+  },
+  {
+    "name": "Indicador Levantado",
+    "pattern": [null, 1, 0, 0, 0],
+    "image": "assets/indicador.png"
+  },
+  {
+    "name": "Sinal de Positivo",
+    "pattern": [1, 0, 0, 0, 0],
+    "image": "assets/positivo.png"
+  },
+  {
+    "name": "Sinal de Paz",
+    "pattern": [null, 1, 1, 0, 0],
+    "image": "assets/paz.png"
+  },
+  {
+    "name": "Mão Aberta",
+    "pattern": [null, 1, 1, 1, 1],
+    "image": "assets/mao_aberta.png"
+  }
+]
